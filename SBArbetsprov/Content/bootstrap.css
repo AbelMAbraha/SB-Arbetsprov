@@ -315,7 +315,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #fbfbfb;
 }
 
 input,
@@ -401,7 +401,7 @@ hr {
 }
 
 p {
-  margin: 0 0 10px;
+  margin: 0 0 0px;
 }
 
 .lead {

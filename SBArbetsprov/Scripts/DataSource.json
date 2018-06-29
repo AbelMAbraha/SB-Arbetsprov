@@ -1,0 +1,59 @@
+﻿{
+  "companyInfo": [
+    {
+      "name": "Sax & Fön",
+      "price": 310,
+      "openingHours": "12:00",
+      "amountOfReviews": 32,
+      "distanceInMinutes": 30,
+      "street": "Rådmansgatan 46",
+      "reviewStars": 2,
+      "phoneNumber": "08-522 389 20",
+      "website": "www.salongweb.com"
+    },
+    {
+      "name": "Hårizont",
+      "price": 350,
+      "openingHours": "13:00",
+      "amountOfReviews": 32,
+      "distanceInMinutes": 30,
+      "street": "Rådmansgatan 46",
+      "reviewStars": 4,
+      "phoneNumber": "08-522 389 20",
+      "website": "www.salongweb.com"
+    },
+    {
+      "name": "Hårhuset",
+      "price": 420,
+      "openingHours": "14:00",
+      "amountOfReviews": 32,
+      "distanceInMinutes": 30,
+      "street": "Rådmansgatan 46",
+      "reviewStars": 4,
+      "phoneNumber": "08-522 389 20",
+      "website": "www.salongweb.com"
+    },
+    {
+      "name": "Hair & Nu",
+      "price": 520,
+      "openingHours": "15:00",
+      "amountOfReviews": 32,
+      "distanceInMinutes": 30,
+      "street": "Rådmansgatan 46",
+      "reviewStars": 4,
+      "phoneNumber": "08-522 389 20",
+      "website": "www.salongweb.com"
+    },
+    {
+      "name": "Hårley Davidson",
+      "price": 320,
+      "openingHours": "12:00",
+      "amountOfReviews": 32,
+      "distanceInMinutes": 30,
+      "street": "Rådmansgatan 46",
+      "reviewStars": 4,
+      "phoneNumber": "08-522 389 20",
+      "website": "www.salongweb.com"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+﻿#cList > div:first-child {
+    padding: 0%;
+    text-align: center;
+    background: linear-gradient(rgba(10, 10, 31, 0), rgba(10, 10, 31, 0.8)) 0% 0% / cover, url('Images/cabelo-preto-em-morena-Shutterstock_Images.jpg') 0% 0%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+    #cList > div:first-child > button {
+        float: left;
+        padding: 23px;
+        background-color: transparent;
+        border: 0px;
+    }
+
+    #cList > div:first-child > div > p:first-child, #cList > div:first-child > div > p:last-child > span, #cList > div:first-child > button {
+        color: white;
+    }
+
+#cList > p {
+    margin-top: 20px;
+}
+
+#cList > div:first-child > button > i {
+    font-size: 28px;
+}
+
+#cList > div:first-child > div {
+    padding: 34% 5% 5%;
+    text-align: left;
+}
+
+    #cList > div:first-child > div > p:first-child {
+        font-family: Georgia;
+        font-size: 32px;
+    }
+
+    #cList > div:first-child > div > p:last-child > span {
+        font-size: 18px;
+    }
+
+    #cList > div:first-child > div > p:last-child > i {
+        font-size: 17px;
+        letter-spacing: 5px;
+        color: rgb(193, 165, 13);
+    }
+
+#cList > div:nth-child(2) {
+    overflow: hidden;
+    padding: 0px;
+}
+
+    #cList > div:nth-child(2) > button {
+        padding: 20px;
+        border: 0px;
+    }
+
+        #cList > div:nth-child(2) > button:hover {
+            border-bottom: 2px solid rgb(193, 165, 13);
+        }
+
+        #cList > div:nth-child(2) > button:focus, #cList > div:first-child > button:focus {
+            outline: none;
+        }
+
+    #cList > ul, #cList > div:nth-child(2) > button {
+        background-color: white;
+    }
+
+#cList > ul {
+    margin-top: 20px;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+    #cList > ul > li > p > i {
+        color: rgb(86, 86, 86);
+        text-align: center;
+        width: 50px;
+        padding: 5px;
+        float: left;
+    }
+
+    #cList > ul > li > p > span {
+        font-size: 15px;
+    }
+
+    #cList > ul > li > p {
+        border-bottom: 1px solid rgba(128, 128, 128, 0.23);
+        font-size: 22px;
+    }
